@@ -57,6 +57,7 @@ ul  {
   color: #6c8fe0;
   list-style: none;
   padding: 0;
+  display: flex;
 }
 
 @media only screen and (min-width: 25em) {
@@ -72,6 +73,8 @@ ul  {
     text-align: center;
     float: left;
     background-color: #18294f;
+    flex-wrap: wrap;
+    align-items: center;
   }
 
 }
@@ -103,6 +106,7 @@ ul  {
   nav li {
     float: right;
     width: 18%;
+    justify-content: center;
   }
 
 }
