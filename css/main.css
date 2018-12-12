@@ -23,7 +23,6 @@ header {
   width: 100%;
   display: block;
   position: absolute;
-
 }
 
 body {
@@ -45,6 +44,7 @@ nav  a {
   display: inline-block;
   padding: .5em;
 }
+
 nav a:hover {
   color: #fff;
 }
@@ -56,8 +56,7 @@ li:hover {
 ul  {
   color: #6c8fe0;
   list-style: none;
-padding: 0;
-
+  padding: 0;
 }
 
 @media only screen and (min-width: 25em) {
