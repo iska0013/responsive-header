@@ -38,7 +38,7 @@ header h1 {
   text-align: center;
 }
 
-nav  a {
+nav a {
   color: #6c8fe0;
   font-size: 1.125rem;
   text-decoration: none;
@@ -55,7 +55,7 @@ li:hover {
   background-color: #6c8fe0;
 }
 
-ul  {
+nav ul  {
   color: #6c8fe0;
   list-style: none;
   padding: 0;
