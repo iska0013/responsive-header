@@ -57,7 +57,7 @@ li:hover {
   background-color: #6c8fe0;
 }
 
-nav ul  {
+nav ul {
   color: #6c8fe0;
   list-style: none;
   padding: 0;
@@ -72,7 +72,7 @@ nav ul  {
     line-height: 1.3;
   }
 
-  nav li  {
+  nav li {
     display: inline-block;
     width: 50%;
     text-align: center;
@@ -91,7 +91,7 @@ nav ul  {
     line-height: 1.4;
   }
 
-  nav li  {
+  nav li {
     width: 25%;
   }
 
